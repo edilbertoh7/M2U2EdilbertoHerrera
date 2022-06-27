@@ -1,0 +1,21 @@
+.my-body {
+    position: relative;
+    width: 700px;
+    height: 400px;
+    margin: auto;
+    border: 20px rgb(6, 129, 237) solid;
+    border-top-width: 20px;
+    border-bottom-width: 20px;
+    /*border-radius: 36px;*/
+    background-color: rgb(221, 221, 230);
+    }
+    /*.my-card1{
+        color: rgb(22, 22, 208);
+    }*/
+
+    .abs-center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+      }    
