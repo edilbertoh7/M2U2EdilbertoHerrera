@@ -1,0 +1,18 @@
+.body-ej1 {
+    position: relative;
+    width: 700px;
+    height: 850px;
+    margin: auto;
+    border: 20px rgb(53, 240, 206) solid;
+    border-top-width: 20px;
+    border-bottom-width: 20px;
+    /*border-radius: 36px;*/
+    background-color: rgb(53, 240, 206);
+    }
+    
+    .abs-center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 10vh;
+      }    
